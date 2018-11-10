@@ -21,8 +21,36 @@
           "emojis": ["😡"]
         },
         {
-          "image_file": "01_disgusting.webp",
-          "emojis": ["🤨","😡"]
+          "image_file": "04_lucc.webp",
+          "emojis": ["😎"]
+        },
+        {
+          "image_file": "06_zapp.webp",
+          "emojis": ["🤩"]
+        },
+        {
+          "image_file": "08_me.webp",
+          "emojis": ["😃"]
+        },
+        {
+          "image_file": "10_salv.webp",
+          "emojis": ["🤔"]
+        },
+        {
+          "image_file": "12_ciot.webp",
+          "emojis": ["🤨"]
+        },
+        {
+          "image_file": "14_zeb.webp",
+          "emojis": ["🤬"]
+        },
+        {
+          "image_file": "16_gentoo.webp",
+          "emojis": ["😱"]
+        },
+        {
+          "image_file": "18_arch.webp",
+          "emojis": ["😎"]
         }
       ]
     }
