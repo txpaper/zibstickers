@@ -1,6 +1,13 @@
  #!bin/bash
  # enrico `txpaper' ronconi
  # 2018-11-10
+
+command -v cwebp > /dev/null
+if [ $? -ne 0 ]; then
+    echo "pleas install cwebp"
+    exit 1
+fi
+ 
 files=`ls *.png | grep '^[0-9]\{2,2\}.\{1,\}\.png'`
 modif=0
 
@@ -15,14 +22,15 @@ do
     if [ ! -f "$name.webp" ]; then
         echo "$name.webp not found, creating..."
         create_webp $name
-        modif=$modif+1
+        modif=$(($modif+1))
     elif [ "$name.webp" -nt "$name.png" ]; then
         echo "$name.webp is up to date"
     else
         echo "$name.png was changed, updating $name.webp"
         create_webp $name
-        modif=$modif+1
+        modif=$(($modif+1))
     fi
 done
 
 echo -e "\n$modif file updated"
+exit 0

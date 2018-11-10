@@ -10,3 +10,4 @@ Gemfile.lock
 _site/
 orig_README.md
 app/build
+.directory
