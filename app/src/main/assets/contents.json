@@ -4,11 +4,11 @@
   "sticker_packs": [
     {
       "identifier": "1",
-      "name": "Zib stickers",
+      "name": "Zib stickers v0.5",
       "publisher": "zibi piscio SAPA",
       "tray_image_file": "tray_onion.png",
       "publisher_email":"",
-      "publisher_website": "",
+      "publisher_website": "http://satanpio.duckdns.org/zibstickers/android.html",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
@@ -50,6 +50,46 @@
         },
         {
           "image_file": "18_arch.webp",
+          "emojis": ["😎"]
+        },
+        {
+          "image_file": "20_ciot2.webp",
+          "emojis": ["😒"]
+        },
+        {
+          "image_file": "22_SIP.webp",
+          "emojis": ["👌🏻"]
+        },
+        {
+          "image_file": "24_tap.webp",
+          "emojis": ["😎"]
+        },
+        {
+          "image_file": "26_lucc1.webp",
+          "emojis": ["👌🏻"]
+        },
+        {
+          "image_file": "28_zibo.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "30_fun.webp",
+          "emojis": ["😐"]
+        },
+        {
+          "image_file": "03_hudz.webp",
+          "emojis": ["😏"]
+        },
+        {
+          "image_file": "05_tom.webp",
+          "emojis": ["😱"]
+        },
+        {
+          "image_file": "07_ziz.webp",
+          "emojis": ["🤔"]
+        },
+        {
+          "image_file": "09_tux.webp",
           "emojis": ["😎"]
         }
       ]

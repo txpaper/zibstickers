@@ -11,3 +11,5 @@ _site/
 orig_README.md
 app/build
 .directory
+app/src/main/assets/raw/
+app/release
