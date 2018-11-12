@@ -33,4 +33,8 @@ do
 done
 
 echo -e "\n$modif file updated"
-exit 0
+if [ $modif -eq 0 ]; then
+    exit 1
+else
+    exit 0
+fi
