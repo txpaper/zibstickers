@@ -95,7 +95,13 @@
         {
           "image_file": "09_tux.webp",
           "emojis": ["😎"]
+        },
+        {
+          "image_file": "13_chainsaw.webp",
+          "emojis": []
         }
+
+
       ]
     }
   ]
