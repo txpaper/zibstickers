@@ -13,3 +13,4 @@ app/build
 .directory
 app/src/main/assets/raw/
 app/release
+app/src/main/assets/1/up.sh

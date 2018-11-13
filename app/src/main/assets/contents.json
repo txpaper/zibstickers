@@ -99,6 +99,26 @@
         {
           "image_file": "13_chainsaw.webp",
           "emojis": []
+        },
+        {
+          "image_file": "15_customgrow.webp",
+          "emojis": ["🚬"]
+        },
+        {
+          "image_file": "17_squidward.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "19_unsafe.webp",
+          "emojis": ["💫"]
+        },
+        {
+          "image_file": "21_tom_hearts.webp",
+          "emojis": ["😍"]
+        },
+        {
+          "image_file": "23_seagulls.webp",
+          "emojis": []
         }
 
 
