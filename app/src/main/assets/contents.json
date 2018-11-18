@@ -127,9 +127,11 @@
         {
           "image_file": "32_metr.webp",
           "emojis": ["😉"]
+        },
+        {
+          "image_file": "33_negus_tonk.webp",
+          "emojis": ["🤔"]
         }
-
-
       ]
     },
     {
