@@ -86,7 +86,7 @@
         },
         {
           "image_file": "13_chainsaw.webp",
-          "emojis": []
+          "emojis": ["🚫"]
         },
         {
           "image_file": "15_customgrow.webp",
@@ -94,7 +94,7 @@
         },
         {
           "image_file": "17_squidward.webp",
-          "emojis": [""]
+          "emojis": []
         },
         {
           "image_file": "19_unsafe.webp",
@@ -106,7 +106,27 @@
         },
         {
           "image_file": "23_seagulls.webp",
+          "emojis": ["🐦"]
+        },
+        {
+          "image_file": "25_salame.webp",
           "emojis": []
+        },
+        {
+          "image_file": "27_tom1.webp",
+          "emojis": ["🤨"]
+        },
+        {
+          "image_file": "29_triggered.webp",
+          "emojis": ["😡"]
+        },
+        {
+          "image_file": "31_duck.webp",
+          "emojis": ["😏"]
+        },
+        {
+          "image_file": "32_metr.webp",
+          "emojis": ["😉"]
         }
 
 
@@ -133,6 +153,10 @@
         {
           "image_file": "09_tux.webp",
           "emojis": ["😎"]
+        },
+        {
+          "image_file": "33_vim.webp",
+          "emojis": []
         }
       ]
     }
