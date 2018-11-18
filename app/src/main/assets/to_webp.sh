@@ -8,7 +8,7 @@ if [ $? -ne 0 ]; then
     exit 1
 fi
  
-files=`ls *.png | grep '^[0-9]\{2,2\}.\{1,\}\.png'`
+files=`ls [0-9]/*.png | grep '^[0-9]/[0-9]\{2,2\}.\{1,\}\.png'`
 modif=0
 
 function create_webp {

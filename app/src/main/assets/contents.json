@@ -4,7 +4,7 @@
   "sticker_packs": [
     {
       "identifier": "1",
-      "name": "Zib stickers v0.5",
+      "name": "Zib stickers v0.6",
       "publisher": "zibi piscio SAPA",
       "tray_image_file": "tray_onion.png",
       "publisher_email":"",
@@ -43,14 +43,6 @@
         {
           "image_file": "14_zeb.webp",
           "emojis": ["🤬"]
-        },
-        {
-          "image_file": "16_gentoo.webp",
-          "emojis": ["😱"]
-        },
-        {
-          "image_file": "18_arch.webp",
-          "emojis": ["😎"]
         },
         {
           "image_file": "20_ciot2.webp",
@@ -93,10 +85,6 @@
           "emojis": ["🤔"]
         },
         {
-          "image_file": "09_tux.webp",
-          "emojis": ["😎"]
-        },
-        {
           "image_file": "13_chainsaw.webp",
           "emojis": []
         },
@@ -122,6 +110,30 @@
         }
 
 
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "UNIX stickers v0.5",
+      "publisher": "zibi piscio SAPA",
+      "tray_image_file": "tux_tray.png",
+      "publisher_email":"",
+      "publisher_website": "http://satanpio.duckdns.org/zibstickers/android.html",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "18_arch.webp",
+          "emojis": ["😎"]
+        },
+        {
+          "image_file": "16_gentoo.webp",
+          "emojis": ["😱"]
+        },
+        {
+          "image_file": "09_tux.webp",
+          "emojis": ["😎"]
+        }
       ]
     }
   ]
