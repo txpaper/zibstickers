@@ -18,9 +18,7 @@ for pack in $packs; do
 
 done
 
-#montage "[0-9]*.png" -tile 1x -geometry +0+0 -pointsize 20 -title "LiveBuild $now" palette.png
-
-montage "[0-9]*.png" -tile 1x -geometry +0+0 -pointsize 20 -title "Zib Stickers v0.6 palette" palette-0.6.png
+montage "[0-9]*.png" -tile 1x -geometry +0+0 -pointsize 20 -title "LiveBuild $now" palette.png
 
 if [ $? -eq 0 ]; then
     echo "Done"
